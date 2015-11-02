@@ -1,0 +1,6 @@
+The main bulk of this project is licensed under the GPLv3. The xsdl code and
+the split colour.h are licensed under the MIT license. This is to allow
+re-incorporation into the original project by anyone (not just me).
+
+The GPLv3 license can be found in the file LICENSE.GPL3
+The MIT license can be found in the file LICENSE.MIT
